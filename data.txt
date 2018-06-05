@@ -1,0 +1,13 @@
+This is some data with two lines of header.
+This is the second line of header.
+0.0   10.0
+0.1   20.0
+0.2   15.0
+0.3   10.0
+0.4   25.0
+0.5   32.0
+0.6   31.0
+0.7   20.0
+0.8   10.0
+0.9    5.0
+1.0    0.0
