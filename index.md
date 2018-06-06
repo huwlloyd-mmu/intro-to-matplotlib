@@ -15,10 +15,10 @@ hyperlinks, interactive python code and plots.
 ### To download and run the notebook:
 
 * First duplicate this page in another tab on your browser.
-* The click the 'View on GihHub' button at the top of this page (you can view the instructions in the duplicated page...)
+* The click the 'View on GitHub' button at the top of this page (you can view the instructions in the duplicated page...)
 * Click the green 'Clone or Download' button and choose 'Download ZIP'
 * On your H: drive, look for a folder called __My-Notebook__. If it's not there, create it.
 * Copy the contents of the zip archive into this folder.
-* Now open Jupyter: from the windows menu, find __Campus Applications > Python > Jupyter Notebook__ and open it
+* Now open __Jupyter__ from the windows menu, find __Campus Applications > Python > Jupyter Notebook__ and open it
 * Find the __SciEngMatplotlib.ipynb__ file in the browser window that opens, and open this file.
 * Now continue in the notebook interface...
