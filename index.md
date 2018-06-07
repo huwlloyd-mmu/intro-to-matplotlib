@@ -19,6 +19,6 @@ hyperlinks, interactive python code and plots.
 * Click the green 'Clone or Download' button and choose 'Download ZIP'
 * On your H: drive, look for a folder called __My-Notebook__. If it's not there, create it.
 * Copy the contents of the zip archive into this folder.
-* Now open __Jupyter__ from the windows menu, find __Campus Applications > Python > Jupyter Notebook__ and open it
+* Now open __Jupyter__ from the windows menu, find __Campus Applications > CMDT > Python > Jupyter Notebook__ and open it
 * Find the __SciEngMatplotlib.ipynb__ file in the browser window that opens, and open this file.
 * Now continue in the notebook interface...
